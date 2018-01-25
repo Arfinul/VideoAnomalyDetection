@@ -1,5 +1,5 @@
 # VideoAnomalyDetection
-![alt text](https://github.com/Arfinul/VideoAnomalyDetection/blob/master/autosys.JPG)
+![Logo](https://github.com/Arfinul/VideoAnomalyDetection/blob/master/autosys.JPG)
 
 This system takes input from an excel file and perform analysis and classification.
 
